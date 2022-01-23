@@ -2,4 +2,7 @@
 ESPLesekopf related downloads
 
 ## Firmware
-Download latest firmware binary here: [firmware.bin](https://raw.githubusercontent.com/esplesekopf/Downloads/master/Firmware/firmware.bin)
+### Tasmota
+Download latest TASMOTA firmware binary here: [firmware-tasmota.bin](https://raw.githubusercontent.com/esplesekopf/Downloads/master/Firmware/Tasmota/firmware-tasmota.bin)
+### SMLReader
+Download latest SMLReader firmware binary here: [firmware-smlreader.bin](https://raw.githubusercontent.com/esplesekopf/Downloads/master/Firmware/SMLReader/firmware-smlreader.bin)
